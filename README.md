@@ -1,1 +1,1 @@
-# CSS-Snippeets
+# CSS-Snippets
